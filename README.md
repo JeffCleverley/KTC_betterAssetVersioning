@@ -1,7 +1,5 @@
 # Better Asset Versioning
 
-This repository is for the [Better Asset Versioning Lab](https://knowthecode.io/labs/better-asset-versioning) on [Know the Code](https://KnowTheCode.io).
-
 This WordPress plugin handles the following tasks:
  
 - Asset URL conversion 
@@ -9,6 +7,8 @@ This WordPress plugin handles the following tasks:
     - moving it into the filename
 - Set theme's version number to its stylesheet's last modification time
 - Change the theme's stylesheet to the minified version when not in debug mode. [See the code here](https://github.com/KnowTheCode/better-asset-versioning/blob/master/src/Support/asset-helpers.php#L14).    
+
+This plugin was developed following the [Better Asset Versioning Lab](https://knowthecode.io/labs/better-asset-versioning) on [Know the Code](https://KnowTheCode.io) by Tonya Mork.
  
 ## Asset URL Conversion - How it Works
 
